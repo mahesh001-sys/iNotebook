@@ -73,7 +73,7 @@ npm run both
 You can deploy the backend on platforms like Render, Railway, or Vercel (Serverless), and frontend using GitHub Pages, Netlify, or Vercel.
 
 
-### 🙋‍♀️ Author
+###  Author
 Mahesh Kumar Banoth
 
 GitHub:https://github.com/mahesh001-sys
